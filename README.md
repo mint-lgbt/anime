@@ -1,9 +1,9 @@
 <p align="center">
-
     <img alt="anime logo" src="https://github.com/mint-lgbt/anime/raw/master/app/assets/images/logo.svg" />
+</p>
 
+<p align="center">
     <h3>your new best friend in anime streaming</h3>
-
 </p>
 
 ### PLEASE READ!
