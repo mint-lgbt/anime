@@ -13,5 +13,4 @@ before_script:
   - bundle exec rake db:migrate
   - bundle exec rake db:schema:load
 script:
-  - bundle exec rake test
   - bundle exec rake test:system
